@@ -1,8 +1,8 @@
 # Android-Humor
 A Repositior of small bits of code and images to make you laugh.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
 # IMAGES:
+
 With Great Power Comes...
 ![programmingstrength](https://cloud.githubusercontent.com/assets/9339984/26617734/6258b704-459c-11e7-8377-5ee23eeb0d74.jpg)
 
